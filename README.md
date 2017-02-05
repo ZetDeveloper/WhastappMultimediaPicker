@@ -3,7 +3,7 @@ Multimedia Picker like wahtsapp
 
 A simple library to select images and video from the gallery and camera.
 
-![alt tag](http://i.imgur.com/AIcIYSJ.png)
+![alt tag](http://i.imgur.com/f3BDH8u.jpg)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
